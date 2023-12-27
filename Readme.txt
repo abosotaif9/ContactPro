@@ -19,5 +19,8 @@
 
 # ---------------------------- Contact Pro ------------------------------- #
 
+P.S: There is also an attached file called 'input.txt' containing fake contacts that you can try when you download the code to your computer 
+to use your own contacts just create an empty 'input.txt' file.
+Have Fun!!
 
 # ---------------------------- By Mustafa Abdullah ------------------------------- #
